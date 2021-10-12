@@ -1,0 +1,14 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#school {
+    width: 100%;
+}
+
+#marqueeStyle {
+    background-color: blue;
+    color: white;
+}
